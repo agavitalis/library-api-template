@@ -3,7 +3,7 @@
 
 ## About
 
-A simple library API illustrating how to implement rate limiting using the Laravel Trottle Middleware and Kinsta technologies:
+A simple library API template for illustrating how to implement rate limiting using the Laravel Trottle Middleware and Kinsta technologies:
 
 
 ## Application Requirements
